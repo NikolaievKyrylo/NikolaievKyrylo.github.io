@@ -1,0 +1,36 @@
+@font-face {
+	font-family: "RobotoLight";
+    src: url("../fonts/Roboto/Roboto-Light.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "RobotoBlack";
+	src: url("../fonts/Roboto/Roboto-Black.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "PlayRegular";
+	src: url("../fonts/Playfairdisplay/playfairdisplay.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "PlayBlack";
+	src: url("../fonts/Playfairdisplay/playfairdisplayblack.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "PlayBold";
+	src: url("../fonts/Playfairdisplay/playfairdisplaybold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "HammersmithoneRegular";
+	src: url("../fonts/Hammersmithone/hammersmithone.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
